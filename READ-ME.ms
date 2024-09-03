@@ -1,0 +1,1 @@
+I wanted to make a jeopardy game for a halloween party im throwing this year, and i thought why would i go to some precoded website for that when i can just make my own code? 
